@@ -6,8 +6,8 @@ Vagrant Box Ubuntu 18.04 com a versão corrente do elasticsearch, logstash e kib
 * Vagrant 2.2.6+
 
 ## Ubuntu
-Usuário: vagrant
-Senha: vagrant
+* Usuário: vagrant
+* Senha: vagrant
 
 ## Vagrant
 Criar e/ou iniciar uma instância na VM
@@ -32,11 +32,11 @@ $ vagrant destroy
 
 ## Kibana
 Acessar o painel
-'''
+```
 http://localhost:5601/
-'''
+```
 
 ## Referência
-* [https://www.virtualbox.org/]
-* [https://www.vagrantup.com/]
-* [https://www.elastic.co/]
+* https://www.virtualbox.org/
+* https://www.vagrantup.com/
+* https://www.elastic.co/
